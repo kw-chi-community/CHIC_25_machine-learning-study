@@ -1,0 +1,1 @@
+from ._1_std_n_mean import np_array
